@@ -1,4 +1,4 @@
-package com.saiviks.groceryapp
+package com.saivikas.groceryapp
 
 import androidx.lifecycle.LiveData
 import androidx.room.*
